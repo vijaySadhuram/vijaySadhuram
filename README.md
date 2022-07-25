@@ -50,7 +50,7 @@ I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=vijaysadhuram&theme=dark&background=000000)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vijaysadhuram)](https://github.com/anuraghazra/github-readme-stats)
 ---
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 ### :writing_hand: Blog Posts :
   <!-- BLOG-POST-LIST:START -->
 - [Test Post](https://dev.to/itszed0/test-post-490g)
