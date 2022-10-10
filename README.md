@@ -1,14 +1,14 @@
 # Vijay-Sadhuram
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="100"/>
-<div id="badges">
+<!-- <div id="badges">
   <a href="www.linkedin.com/in/vijaysadhuram">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="your-twitter-URL">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
-</div>
+</div> --!>
  <h1>
   hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
@@ -43,20 +43,4 @@ I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
   <!<img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" <!height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
-  
----
-
-### :fire: My Stats :
-<!--[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=vijaysadhuram&theme=dark&background=000000)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vijaysadhuram&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
----
-
----
-
-### :writing_hand: Blog Posts :
-<!-- BLOG-POST-LIST:START -->
-- [Test Post](https://dev.to/itszed0/test-post-490g)
-<!-- BLOG-POST-LIST:END -->
-
-
-
+ 
