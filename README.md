@@ -26,7 +26,5 @@ I'm Vijay, a full-stack developer with a passion for creating engaging user expe
 
 - Building scalable web applications
 - Best practices for version control and collaboration
-- ![Vijay's GitHub stats](https://github-readme-stats.vercel.app/api?username=vijaySadhuram&show_icons=true&theme=radical)
-
 
 Thanks for visiting my profile! Don't forget to check out my repositories and leave a ⭐️ if you find something interesting.
