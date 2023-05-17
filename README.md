@@ -11,9 +11,6 @@ I'm Vijay, a full-stack developer with a passion for creating engaging user expe
 
 - JavaScript
 - React
-- Node.js
-- Express.js
-- MongoDB
 - MySQL
 - Git and GitHub
 
