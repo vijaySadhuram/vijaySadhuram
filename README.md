@@ -1,19 +1,19 @@
 # Hello, World! 👋
 
-Vijay Sadhuram | Software Engineer 
+I'm Vijay, a developer passionate about creating engaging user experiences. Welcome to my GitHub profile  :tada:!
 
 ## 🔭 Current Projects
 
-- [ChatApp](https://github.com/vijaySadhuram/Project_ChatAPP) 
-- [Weather_App](https://github.com/vijaySadhuram/project_Weather_App)
+- [ChatApp](https://github.com/vijaySadhuram/Project_ChatAPP)   :speech_balloon:
+- [Weather_App](https://github.com/vijaySadhuram/project_Weather_App) :partly_sunny:
 
 ## 🌱 Skills
 
-- JavaScript
-- React
-- MySQL
-- Git and GitHub
-- Java
+- JavaScript  :gear:
+- React :atom_symbol:
+- MySQL :file_cabinet:
+- Git and GitHub :octocat:
+- Java :coffee:
 
 ## 📫 How to Reach Me
 
